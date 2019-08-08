@@ -15,3 +15,7 @@ Clone the repo into your favorite subfolder
 git clone https://github.com/OliverDJ/windows-initial-setup.git
 ```
 
+## Install
+
+Install all packages
+`choco install Packages.config`
