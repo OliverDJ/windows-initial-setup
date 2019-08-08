@@ -12,6 +12,7 @@ Run the following command in Command Prompt (run as administrator)
 ```
 choco install git
 ```
+you may need to restart Command Prompt after the git installation
 
 ## Clone the repo
 Clone the repo into your favorite subfolder
