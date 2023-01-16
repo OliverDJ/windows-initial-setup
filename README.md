@@ -31,7 +31,7 @@ First move into the newly downloaded folder called `windows-initial-setup`
 ```
 cd windows-initial-setup
 ```
-then run the choco installtion command
+then run the choco installation command
 ```
 choco install Packages.config
 ```
