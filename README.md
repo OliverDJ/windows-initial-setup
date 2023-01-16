@@ -26,8 +26,8 @@ git clone https://github.com/OliverDJ/windows-initial-setup.git
 ```
 
 ## Install Packages
-Install all packages
-Move into the newly downloaded folder called `windows-initial-setup`
+Install all packages. 
+First move into the newly downloaded folder called `windows-initial-setup`
 ```
 cd windows-initial-setup
 ```
