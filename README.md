@@ -16,6 +16,11 @@ you may need to restart Command Prompt after the git installation
 
 ## Clone the repo
 Clone the repo into your favorite subfolder
+
+```
+cd <path_to_favorite_folder> (e.g. cd C:\Users\Oliver\Documents)
+```
+Then
 ```
 git clone https://github.com/OliverDJ/windows-initial-setup.git
 ```
