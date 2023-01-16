@@ -27,6 +27,14 @@ git clone https://github.com/OliverDJ/windows-initial-setup.git
 
 ## Install Packages
 Install all packages
+Move into the newly downloaded folder called `windows-initial-setup`
+```
+cd windows-initial-setup
+```
+then run the choco installtion command
 ```
 choco install Packages.config
 ```
+
+You will be promtped with a confirmation promt: "Do you want to run the scipt?". 
+Press "A + Enter" to accept "Yes to all"
